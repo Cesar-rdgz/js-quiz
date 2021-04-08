@@ -3,4 +3,4 @@
 - Working with form in javascript (event listeners)
 - Javascript Arrays
 
-[lIVE PREVIEW](https://cesar-rdgz.github.io/js-quiz/)
+[LIVE PREVIEW](https://cesar-rdgz.github.io/js-quiz/)
